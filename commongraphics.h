@@ -1,0 +1,4 @@
+#ifndef COMMONGRAPHICS_H
+#define COMMONGRAPHICS_H
+
+#endif // COMMONGRAPHICS_H
